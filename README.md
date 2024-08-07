@@ -1,0 +1,1 @@
+https://github.com/jixxed/StationeersMods/blob/main/doc/CREATE-MOD-UNITY.md

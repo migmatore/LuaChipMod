@@ -1,0 +1,29 @@
+{
+    "name": "LuaChipMod",
+    "rootNamespace": "luachipmod",
+    "references": [
+        "GUID:343deaaf83e0cee4ca978e7df0b80d21",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [
+        "Editor",
+        "WindowsStandalone32",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "Assembly-CSharp.dll",
+        "Assembly-CSharp-firstpass.dll",
+        "StationeersMods.Interface.dll",
+        "0Harmony.dll",
+        "UniTask.dll",
+        "KeraLua.dll",
+        "NLua.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: ebc5d7cf5a30e8145a033c3a04bc4a0f
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: luachipmod
+  assetBundleVariant: assets
+  script: {fileID: 12388, guid: 0000000000000000e000000000000000, type: 0}
+  disableValidation: 0
